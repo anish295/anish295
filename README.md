@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Anish;Researcher;Full-Stack+Developer;Digital+Forensics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Anish;Full-Stack+Developer;Researcher;Digital+Forensics+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h2 align="center">Student at Netaji Subhas University of Technology (NSUT)</h2>
