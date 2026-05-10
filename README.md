@@ -1,66 +1,53 @@
-<h2 align="left">Hi 👋! My name is Anish.<br>Researcher | Full-Stack Developer | Digital Forensics Enthusiast<br>I'm a student from Netaji Subhas University of Technology (NSUT).<br>I bridge the gap between secure network architecture and high-performance web applications. My work focuses on building privacy-first communication tools and analyzing the efficiency of IoT ecosystems.</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Anish;Researcher;Full-Stack+Developer;Digital+Forensics+Enthusiast" alt="Typing SVG" />
+</div>
 
-###
+<h2 align="center">Student at Netaji Subhas University of Technology (NSUT)</h2>
+
+<p align="center">
+  I bridge the gap between secure network architecture and high-performance web applications. <br>
+  My work focuses on building privacy-first communication tools and analyzing the efficiency of IoT ecosystems.
+</p>
+
+---
+
+### 📊 My Stats & Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anish295/anish295/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/anish295/anish295/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/anish295/anish295/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/anish295/anish295/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anish295/anish295/snake-output/snake.svg" alt="Snake animation" />
+</p>
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg0MTE1NTksIm5iZiI6MTc3ODQxMTI1OSwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTEwVDExMDczOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyOThlYmIwNWFiNGE1MzcxYWU0MDJlMTA5ZjgxMjYzYTkxYzQxYTBhOWY1OGRiMmU5MDM4ZDMzZDcxZWM3MDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.fUA0X45-c7VZ9veS7NA27F2uz6s3whExF1IX0YA7gQo"  />
+---
 
-###
+### 🛠 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cs,anaconda,c,cpp,git,java,vscode,mysql&theme=dark" />
 </div>
 
-###
+---
 
-<div align="left">
+### 🤝 Let's Connect
+
+<div align="center">
   <a href="https://www.instagram.com/0_.anish._0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-  <a href="k.anish9461@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:k.anish9461@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="www.linkedin.com/in/anish-kumar295" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/anish-kumar295" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anish295/anish295/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<div align="right">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJicnZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnFwPWcmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/dWZ0O1VpP4b8tG1K3X/giphy.gif" />
+</div>
