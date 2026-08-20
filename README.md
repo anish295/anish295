@@ -5,7 +5,7 @@
 <h2 align="center">Student at Netaji Subhas University of Technology (NSUT)</h2>
 
 <p align="center">
-  I bridge the gap between secure network architecture and high-performance web applications. HI<br>
+  I bridge the gap between secure network architecture and high-performance web applications.<br>
   My work focuses on building privacy-first communication tools and analyzing the efficiency of IoT ecosystems.
 </p>
 
@@ -14,7 +14,7 @@
 ### 📊 My Stats & Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anish295/anish295/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/anish295/anish295/stats-output/stats.svg?v=1" height="150" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/anish295/anish295/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
