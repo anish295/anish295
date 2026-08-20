@@ -5,7 +5,7 @@
 <h2 align="center">Student at Netaji Subhas University of Technology (NSUT)</h2>
 
 <p align="center">
-  I bridge the gap between secure network architecture and high-performance web applications. <br>
+  I bridge the gap between secure network architecture and high-performance web applications. HI<br>
   My work focuses on building privacy-first communication tools and analyzing the efficiency of IoT ecosystems.
 </p>
 
