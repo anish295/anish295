@@ -1,13 +1,44 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Anish;Full-Stack+Developer;Researcher;Digital+Forensics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Anish;Full-Stack+Developer;Privacy+%26+Security+Enthusiast;AI-Integrated+Systems+Builder" alt="Typing SVG" />
 </div>
 
-<h2 align="center">Student at Netaji Subhas University of Technology (NSUT)</h2>
+<h2 align="center">B.Tech IT Student @ Netaji Subhas University of Technology (NSUT), Delhi</h2>
 
 <p align="center">
-  I bridge the gap between secure network architecture and high-performance web applications.<br>
-  My work focuses on building privacy-first communication tools and analyzing the efficiency of IoT ecosystems.
+  I build privacy-first, AI-integrated web applications and real-time collaboration tools.<br>
+  From zero-footprint encrypted platforms to gamified EdTech systems — I focus on clean architecture and meaningful impact.
 </p>
+
+---
+
+### 💼 Experience
+
+**Software Engineer Intern — TeachBetter AI** *(June 2026 – July 2026)*
+- Designed and developed a reusable gamified assessment framework in React supporting game templates (Froggy Jump, Treasure Hunt, Space Runner) wired to a shared Assessment Engine.
+- Architected a scalable frontend by decoupling the Assessment Engine, Game Engine, and Template Loader.
+- Built the Student Assessment Portal with quiz flow, progress tracking, timer management, and anti-cheating mechanisms.
+
+**Front-End AI Engineer Intern — FlyRank AI**
+- Worked on AI-integrated frontend systems, contributing to scalable and production-grade UI development.
+
+---
+
+### 🚀 Projects
+
+#### [CodeChemy](https://github.com/anish295/CodeChemy)
+> *React 19, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Groq SDK, Google GenAI SDK*
+- Full-stack interview-preparation platform using the LeetCode GraphQL API to track progress, visualise activity heatmaps, and compare user statistics.
+- Engineered AI-powered code review, contextual hints, and optimal solutions via Groq and Google GenAI SDKs, backed by a secure Node.js/Express API.
+- Implemented JWT-based authentication, secure session management, and a responsive Tailwind CSS frontend.
+
+#### [ShadowRoom](https://github.com/anish295/ShadowRoom)
+> *React, Vite, Node.js, Express.js, Socket.io, WebRTC, AES-256, SHA-256*
+- Privacy-centric real-time collaboration platform with end-to-end encrypted messaging and P2P file sharing — zero persistent storage, zero accounts required.
+- Implemented 256-bit AES encryption and SHA-256 room-key generation; optimised for shared university lab environments.
+
+#### VoiceShield
+> *Python, Multimodal AI, Emotion Detection*
+- Multimodal emotion detection system combining audio and visual signals to identify and classify emotional states in real time.
 
 ---
 
@@ -27,8 +58,24 @@
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cs,anaconda,c,cpp,git,java,vscode,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,py,c,cpp,java,git,github,vscode,mysql,mongodb,vite,postman,anaconda&theme=dark" />
 </div>
+
+---
+
+### 🏆 Achievements
+
+- 🧩 Solved **350+ LeetCode problems** spanning Data Structures and Algorithms
+- 🥇 **School Topper** — 96% in Class X, Kendriya Vidyalaya Sec-5, Dwarka (CBSE)
+- 🎉 Contributed to **MOKSHA '24** — NSUT's annual cultural fest, managing events for thousands of attendees
+- 📡 **NSS Volunteer** — Managed live streaming of the Prime Minister's interaction with first-time voters on National Voters' Day
+- 🎡 **Executive Committee, Rotaract Club NSUT** — Coordinated logistics for Friendship Fiesta 2.0 and Zorb Football
+
+---
+
+### 📚 Relevant Coursework
+
+`Data Structures & Algorithms` · `DBMS` · `Operating Systems` · `Computer Networks` · `Machine Learning` · `Artificial Intelligence` · `Cryptography` · `Software Engineering`
 
 ---
 
