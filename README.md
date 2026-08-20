@@ -11,34 +11,17 @@
 
 ---
 
-### 💼 Experience
-
-**Software Engineer Intern — TeachBetter AI** *(June 2026 – July 2026)*
-- Designed and developed a reusable gamified assessment framework in React supporting game templates (Froggy Jump, Treasure Hunt, Space Runner) wired to a shared Assessment Engine.
-- Architected a scalable frontend by decoupling the Assessment Engine, Game Engine, and Template Loader.
-- Built the Student Assessment Portal with quiz flow, progress tracking, timer management, and anti-cheating mechanisms.
-
-**Front-End AI Engineer Intern — FlyRank AI**
-- Worked on AI-integrated frontend systems, contributing to scalable and production-grade UI development.
-
----
-
-### 🚀 Projects
+### 🚀 Featured Projects
 
 #### [CodeChemy](https://github.com/anish295/CodeChemy)
-> *React 19, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Groq SDK, Google GenAI SDK*
-- Full-stack interview-preparation platform using the LeetCode GraphQL API to track progress, visualise activity heatmaps, and compare user statistics.
-- Engineered AI-powered code review, contextual hints, and optimal solutions via Groq and Google GenAI SDKs, backed by a secure Node.js/Express API.
-- Implemented JWT-based authentication, secure session management, and a responsive Tailwind CSS frontend.
+> *React 19 · Vite · Tailwind CSS · Node.js · Express.js · MongoDB · JWT · Groq SDK · Google GenAI SDK*
+
+Full-stack interview-prep platform using the LeetCode GraphQL API to track progress, visualise activity heatmaps, and compare user stats. Features AI-powered code review, contextual hints, and optimal solutions via Groq and Google GenAI SDKs.
 
 #### [ShadowRoom](https://github.com/anish295/ShadowRoom)
-> *React, Vite, Node.js, Express.js, Socket.io, WebRTC, AES-256, SHA-256*
-- Privacy-centric real-time collaboration platform with end-to-end encrypted messaging and P2P file sharing — zero persistent storage, zero accounts required.
-- Implemented 256-bit AES encryption and SHA-256 room-key generation; optimised for shared university lab environments.
+> *React · Vite · Node.js · Express.js · Socket.io · WebRTC · AES-256 · SHA-256*
 
-#### VoiceShield
-> *Python, Multimodal AI, Emotion Detection*
-- Multimodal emotion detection system combining audio and visual signals to identify and classify emotional states in real time.
+Privacy-centric real-time collaboration platform — end-to-end encrypted messaging, P2P file sharing, zero persistent storage, zero accounts required. Built for shared university lab environments.
 
 ---
 
@@ -60,22 +43,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,py,c,cpp,java,git,github,vscode,mysql,mongodb,vite,postman,anaconda&theme=dark" />
 </div>
-
----
-
-### 🏆 Achievements
-
-- 🧩 Solved **350+ LeetCode problems** spanning Data Structures and Algorithms
-- 🥇 **School Topper** — 96% in Class X, Kendriya Vidyalaya Sec-5, Dwarka (CBSE)
-- 🎉 Contributed to **MOKSHA '24** — NSUT's annual cultural fest, managing events for thousands of attendees
-- 📡 **NSS Volunteer** — Managed live streaming of the Prime Minister's interaction with first-time voters on National Voters' Day
-- 🎡 **Executive Committee, Rotaract Club NSUT** — Coordinated logistics for Friendship Fiesta 2.0 and Zorb Football
-
----
-
-### 📚 Relevant Coursework
-
-`Data Structures & Algorithms` · `DBMS` · `Operating Systems` · `Computer Networks` · `Machine Learning` · `Artificial Intelligence` · `Cryptography` · `Software Engineering`
 
 ---
 
